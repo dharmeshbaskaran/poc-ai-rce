@@ -4,6 +4,7 @@ import datetime
 
 app = Flask(__name__)
 # Mock data
+
 products = [
     {
         "id": 1,
