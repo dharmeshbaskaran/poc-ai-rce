@@ -1,4 +1,4 @@
-# WARNING THIS IS A POC FOR A PROMPT INJECTION TURNED RCE IN VSCODE! Flask Products API
+# WARNING THIS IS A POC FOR CVE-2025-53773, A PROMPT INJECTION TURNED RCE IN VSCODE! Flask Products API
 
 A simple Flask API for managing products with basic CRUD operations and statistics.
 
